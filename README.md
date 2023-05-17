@@ -1,5 +1,5 @@
-# projektInzynierski]
-Projekt ma na celu stworzenie aplikacji, która umożliwi użytkownikom recenzowanie różnych rodzajów herbat.
+# projektInzynierski
+Projekt ma na celu stworzenie aplikacji na IOS, która umożliwi użytkownikom recenzowanie różnych rodzajów herbat.
 W ramach aplikacji, użytkownicy będą mieli dostęp do listy herbat, do której będą mogli dodawać swoje opinie. 
 Przy każdej herbacie będzie możliwe umieszczenie zdjęć oraz opisu.
 Użytkownicy będą mieli możliwość oceny herbaty w skali od 1 do 6 gwiazdek, co pozwoli na łatwe porównanie różnych herbat i wybór najlepszych. 
@@ -8,4 +8,4 @@ Aby ułatwić użytkownikom wyszukiwanie herbat, w aplikacji będą dostępne ka
 Jeśli jakiejś herbaty nie będzie na liście, użytkownik będzie miał możliwość dodania swojej własnej herbaty i umieszczenia jej w odpowiedniej kategorii.
 Ważnym elementem aplikacji będzie także funkcjonalność oznaczania opinii innych użytkowników jako pomocne lub niepomocne. 
 Celem projektu jest stworzenie łatwej w użyciu aplikacji dla miłośników herbat, gdzie będą mogli dzielić się swoimi opiniami oraz znaleźć najlepsze herbaty dostępne na rynku. 
-W celu zrealizowania projektu, wykorzystywany zostanie ęzyk programowania Swift.
+W celu zrealizowania projektu, wykorzystywany zostanie język programowania Swift.
